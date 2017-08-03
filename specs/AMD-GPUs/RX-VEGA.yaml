@@ -9,7 +9,7 @@ data:
   Vulkan Support: '1.0'
   Release Date: '2017-08-14'
 sections:
-  - header: ENTHUSIAST LEVEL
+  - header: ENTHUSIAST
     members:
     - RX-VEGA64-LIQUID
     - RX-VEGA64
