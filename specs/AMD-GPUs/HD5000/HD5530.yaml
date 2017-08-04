@@ -4,7 +4,7 @@ data:
   GPU: Cedar
   Codename: Cedar PRO
   Release Date: '2011-04'
-  Die Size: 104 mm²
+  Die Size: 59 mm
   Shader Processor Count: 80
   Texture Mapping Unit Count: 8
   Render Output Unit Count: 4
@@ -13,8 +13,8 @@ data:
   VRAM Capacity: 1 GiB
   VRAM Bus Width: 64 Bits
   VRAM Type: GDDR3
-  VRAM Bandwidth: 20 GB/s
-  TDP: 40 W
+  VRAM Bandwidth: 9.6 GB/s
+  TDP: 19 W
 inherits:
   - TeraScale-2
 name: HD-5530

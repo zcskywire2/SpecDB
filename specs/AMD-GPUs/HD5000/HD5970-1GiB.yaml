@@ -1,7 +1,7 @@
 isPart: true
 type: Graphics Card
 data:
-  GPU: Hemlock
+  GPU: Cypress
   Codename: Hemlock XT
   Release Date: '2009-11-18'
   Die Size: 334 mm²
@@ -10,7 +10,7 @@ data:
   Render Output Unit Count: 64
   Base Frequency: 725 MHz
   VRAM Frequency: 4000 MT/s
-  VRAM Capacity: 1 GiB (each GPU)
+  VRAM Capacity: 1 GiB (per GPU)
   VRAM Bus Width: 256 Bits
   VRAM Type: GDDR5
   VRAM Bandwidth: 128 GB/s

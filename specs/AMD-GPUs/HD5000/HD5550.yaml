@@ -2,7 +2,7 @@ isPart: true
 type: Graphics Card
 data:
   GPU: Redwood
-  Codename: Redwood LE
+  Codename: Redwood PRO2
   Release Date: '2010-02-09'
   Die Size: 104 mm²
   Shader Processor Count: 320
@@ -13,7 +13,7 @@ data:
   VRAM Capacity: 512 MiB
   VRAM Bus Width: 128 Bits
   VRAM Type: GDDR5
-  VRAM Bandwidth: 20 GB/s
+  VRAM Bandwidth: 51.2 GB/s
   TDP: 39 W
 inherits:
   - TeraScale-2

@@ -13,8 +13,8 @@ data:
   VRAM Capacity: 512 MiB
   VRAM Bus Width: 64 Bits
   VRAM Type: GDDR3
-  VRAM Bandwidth: 28 GB/s
-  TDP: 39 W
+  VRAM Bandwidth: 6.4 GB/s
+  TDP: 19 W
 inherits:
   - TeraScale-2
 name: HD-5470

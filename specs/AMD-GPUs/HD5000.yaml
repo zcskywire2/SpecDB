@@ -36,13 +36,17 @@ sections:
     members:
       - HD-5630
       - HD-5610
-      - HD-5570-2GiB-DDR2
+      - HD-5570-2GiB-DDR3
       - HD-5570
+      - HD-5570-512
       - HD-5570-GDDR3
       - HD-5570-Turks
       - HD-5550
       - HD-5530
-      - HD 5490
-      - HD 5470
-      - HD 5450-512MiB-DDR3      
-      - HD 5450-512MiB-DDR2
+      - HD-5490
+      - HD-5470
+      - HD-5450-2GiB-DDR3
+      - HD-5450-1GiB-DDR3
+      - HD-5450-1GiB-DDR2
+      - HD-5450-512MiB-DDR3      
+      - HD-5450-512MiB-DDR2

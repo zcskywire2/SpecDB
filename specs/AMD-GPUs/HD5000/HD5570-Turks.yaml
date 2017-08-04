@@ -13,7 +13,7 @@ data:
   VRAM Capacity: 1 GiB
   VRAM Bus Width: 128 Bits
   VRAM Type: GDDR3
-  VRAM Bandwidth: 28.8 GB/s
+  VRAM Bandwidth: 16 GB/s
   TDP: 39 W
 inherits:
   - TeraScale-2

@@ -10,7 +10,7 @@ data:
   Render Output Unit Count: 32
   Base Frequency: 850 MHz 
   VRAM Frequency: 4800 MT/s
-  VRAM Capacity: 1 GiB (each GPU)
+  VRAM Capacity: 1 GiB (per GPU)
   VRAM Bus Width: 128 Bits
   VRAM Type: GDDR5
   VRAM Bandwidth: 76.8 GB/s

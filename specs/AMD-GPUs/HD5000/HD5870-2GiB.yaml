@@ -14,7 +14,7 @@ data:
   VRAM Bus Width: 256 Bits
   VRAM Type: GDDR5
   VRAM Bandwidth: 153.6 GB/s
-  TDP: 228 W
+  TDP: 188 W
 inherits:
   - TeraScale-2
 name: HD-5870-2GiB
