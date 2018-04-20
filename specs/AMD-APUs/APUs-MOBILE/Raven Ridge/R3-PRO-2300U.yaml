@@ -3,8 +3,8 @@ name: R3-PRO-2300U
 humanName: R3-PRO-2300U
 type: APU
 inherits:
+  - Raven-Ridge-M
   - GCN 5
-  - Raven-Ridge
 data:
  
   Core Count: 4

@@ -13,7 +13,7 @@ sections:
       - Carrizo-M
       - Kaveri-M
 #      - Kabini-M
-#      - Richland-M
+      - Richland-M
 #      - Trinity-M
 #      - Llano-M
         

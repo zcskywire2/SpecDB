@@ -3,8 +3,8 @@ name: A6-7050B
 humanName: A6-7050B
 type: APU
 inherits:
+  - Kaveri-M
   - GCN 2
-  - Kaveri
 data:
 
   Core Count: 2

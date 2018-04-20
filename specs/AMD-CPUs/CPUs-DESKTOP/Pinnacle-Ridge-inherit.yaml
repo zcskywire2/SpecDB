@@ -5,6 +5,7 @@ data:
   Lithography: 12 nm
   Socket: AM4
   Unlocked: true
+  Release Date: '2018-04-19'
   Max Memory Frequency: 2933 MHz
   Max Memory Channels: 2
   L3 Cache (Total): 16 MiB

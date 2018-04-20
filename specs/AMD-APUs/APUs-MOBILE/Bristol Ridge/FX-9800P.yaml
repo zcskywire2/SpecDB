@@ -3,8 +3,8 @@ name: FX-9800P
 humanName: FX-9800P
 type: APU
 inherits:
+  - Carrizo-M
   - GCN 3
-  - Bristol-Ridge
 data:
 
   Core Count: 4

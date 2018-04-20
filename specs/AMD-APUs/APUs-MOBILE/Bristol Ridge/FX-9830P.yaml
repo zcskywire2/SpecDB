@@ -3,8 +3,8 @@ name: FX-9830P
 humanName: FX-9830P
 type: APU
 inherits:
+  - Bristol-Ridge-M
   - GCN 3
-  - Bristol-Ridge
 data:
 
   Core Count: 4

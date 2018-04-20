@@ -3,8 +3,8 @@ name: A12-9730B
 humanName: A12-9730B
 type: APU
 inherits:
+  - Bristol-Ridge-M
   - GCN 3
-  - Bristol-Ridge
 data:
 
   Core Count: 4

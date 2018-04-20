@@ -3,8 +3,8 @@ name: R5-PRO-2500U
 humanName: R5-PRO-2500U
 type: APU
 inherits:
+  - Raven-Ridge-M
   - GCN 5
-  - Raven-Ridge
 data:
  
   Core Count: 4

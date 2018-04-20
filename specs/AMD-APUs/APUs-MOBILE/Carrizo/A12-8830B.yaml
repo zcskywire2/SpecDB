@@ -3,8 +3,8 @@ name: A12-8830B
 humanName: A12-8830B
 type: APU
 inherits:
+  - Carrizo-M
   - GCN 3
-  - Carrizo
 data:
 
   Core Count: 4

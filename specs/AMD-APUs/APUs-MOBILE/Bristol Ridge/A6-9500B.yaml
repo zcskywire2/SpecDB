@@ -3,8 +3,8 @@ name: A6-9500B
 humanName: A6-9500B
 type: APU
 inherits:
+  - Bristol-Ridge-M
   - GCN 3
-  - Bristol-Ridge
 data:
 
   Core Count: 2

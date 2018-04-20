@@ -3,8 +3,8 @@ name: FX-8800P
 humanName: FX-8800P
 type: APU
 inherits:
+  - Carrizo-M
   - GCN 3
-  - Carrizo
 data:
 
   Core Count: 4

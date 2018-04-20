@@ -1,0 +1,20 @@
+isPart: true
+name: A8-5550M
+humanName: A8-5550M
+type: APU
+inherits:
+  - Richland-M
+  - TeraScale-3
+data:
+
+  Base Frequency: 2.1 GHz
+  Boost Frequency: 3.1 GHz
+  Release Date: '2013-05'
+  TDP: 35 W
+  Max Memory Frequency: 1600 MHz
+  GPU Model: HD 8550G
+  Shader Processor Count: 256
+  Texture Mapping Unit Count: 16
+  Render Output Unit Count: 8
+  GPU Base Frequency: 515 MHz
+  GPU Boost Frequency: 720 MHz

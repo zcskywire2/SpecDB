@@ -3,8 +3,8 @@ name: A10-8700P
 humanName: A10-8700P
 type: APU
 inherits:
+  - Carrizo-M
   - GCN 3
-  - Carrizo
 data:
 
   Core Count: 4

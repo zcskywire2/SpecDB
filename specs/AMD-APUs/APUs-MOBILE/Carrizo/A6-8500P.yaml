@@ -3,8 +3,8 @@ name: A6-8500P
 humanName: A6-8500P
 type: APU
 inherits:
+  - Carrizo-M
   - GCN 3
-  - Carrizo
 data:
 
   Core Count: 2

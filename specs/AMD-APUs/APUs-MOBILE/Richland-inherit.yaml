@@ -1,15 +1,18 @@
 hidden: true
-name: Kaveri-M
+name: Richland-M
 data:
-  Architecture: Steamroller
-  Lithography: 28 nm
-  Socket: FP3
+  Architecture: Piledriver
+  Lithography: 32 nm
+  Socket: FS1r2, FP2
   Unlocked: false
-  Release Date: '2014-06'
+  Release Date: '2013-05'
   Max Memory Channels: 2
+  Core Count: 4
+  Thread Count: 4
   L2 Cache (Total): 4 MiB
-  L1 Cache (Instruction): 192 KiB
+  L1 Cache (Instruction): 128 KiB
   L1 Cache (Data): 64 KiB
+  Max Memory Frequency: 1600 MHz
   AVX/SSE/MMX: AVX
   FMA4: true
   FMA3: true

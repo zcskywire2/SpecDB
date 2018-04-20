@@ -3,8 +3,8 @@ name: A10-9630P
 humanName: A10-9630P
 type: APU
 inherits:
+  - Bristol-Ridge-M
   - GCN 3
-  - Bristol-Ridge
 data:
 
   Core Count: 4

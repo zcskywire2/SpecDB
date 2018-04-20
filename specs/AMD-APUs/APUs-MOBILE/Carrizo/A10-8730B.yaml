@@ -3,8 +3,8 @@ name: A10-8730B
 humanName: A10-8730B
 type: APU
 inherits:
+  - Carrizo-M
   - GCN 3
-  - Carrizo
 data:
 
   Core Count: 4

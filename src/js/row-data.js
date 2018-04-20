@@ -301,7 +301,7 @@ module.exports.sections = [
             },
             {
                 name: 'VRAM Type',
-                processor: types.enum(['HBM2', 'GDDR6', 'GDDR5X', 'HBM', 'GDDR5', 'GDDR4', 'GDDR3', 'DDR4', 'DDR3', 'DDR2', 'DDR', 'No']),
+                processor: types.enum(['HBM2', 'GDDR6', 'GDDR5X', 'HBM', 'GDDR5', 'GDDR4', 'GDDR3', 'DDR4', 'DDR3L', 'DDR3', 'DDR2', 'DDR', 'No']),
             },
         ],
     },

@@ -3,8 +3,8 @@ name: A8-7150B
 humanName: A8-7150B
 type: APU
 inherits:
+  - Kaveri-M
   - GCN 2
-  - Kaveri
 data:
 
   Core Count: 4
